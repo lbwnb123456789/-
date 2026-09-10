@@ -1,0 +1,17 @@
+{
+  "app": "com.tencent.jkchess",
+  "duration": "167ms",
+  "headers": {
+    "Host": "yz.blyfw.cn",
+    "Content-Type": "application/x-www-form-urlencoded",
+    "Content-Length": "1295",
+    "Connection": "close"
+  },
+  "method": "POST",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "210.16.182.7",
+  "remotePort": 80,
+  "sessionId": "4f368908-0ac3-4232-bfa1-e46c528fb8ca",
+  "time": "2026-09-08 19:49:32",
+  "url": "http://yz.blyfw.cn/api/expand/variable"
+}
